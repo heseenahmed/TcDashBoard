@@ -1,0 +1,6 @@
+@TCDashBoard_HostAddress = http://localhost:5108
+
+GET {{TCDashBoard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

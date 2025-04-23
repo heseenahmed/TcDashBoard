@@ -1,0 +1,2494 @@
+{
+  "Version": 1,
+  "Hash": "T4mmC05YKTMFEXDWkFgcj5/WvObfr6nKOxAVZdYdZMA=",
+  "Source": "TCDashBoard",
+  "BasePath": "_content/TCDashBoard",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TCDashBoard\\wwwroot",
+      "Source": "TCDashBoard",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\00e6db43-6e24-49c6-80aa-4157feea5f34.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/00e6db43-6e24-49c6-80aa-4157feea5f34#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "08wh1scf2u",
+      "Integrity": "YM70EK3YWYc0D8qN+IhU8gTaa0IRD7YAWXu7QssD+zE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\00e6db43-6e24-49c6-80aa-4157feea5f34.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\0decfc4e-3e64-4a07-9d4a-98278c1dce1f.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/0decfc4e-3e64-4a07-9d4a-98278c1dce1f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ck3durd7n",
+      "Integrity": "s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0decfc4e-3e64-4a07-9d4a-98278c1dce1f.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\0f9437d1-a1b7-4f75-ab66-773a700e6056.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/0f9437d1-a1b7-4f75-ab66-773a700e6056#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae1wzk4vzu",
+      "Integrity": "EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\0f9437d1-a1b7-4f75-ab66-773a700e6056.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\16e028dd-8d24-4173-8f6b-85e5b54ed297.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/16e028dd-8d24-4173-8f6b-85e5b54ed297#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5bf7o9a4pp",
+      "Integrity": "QcX4UG74QYssOsKV3oai8AnyahxECGTQBXeZTtZdSI0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\16e028dd-8d24-4173-8f6b-85e5b54ed297.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/47a7b49d-8236-41b7-9c58-1ea9bcffe2f4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae1wzk4vzu",
+      "Integrity": "EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\4f2a867b-d5bb-403b-9b5f-499765045d97.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/4f2a867b-d5bb-403b-9b5f-499765045d97#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\4f2a867b-d5bb-403b-9b5f-499765045d97.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\54810cb8-21ad-4f50-9f14-77a04dba0a3c.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/54810cb8-21ad-4f50-9f14-77a04dba0a3c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\54810cb8-21ad-4f50-9f14-77a04dba0a3c.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\634621a2-2b88-431f-a77c-5bff958208fe.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/634621a2-2b88-431f-a77c-5bff958208fe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohqsus9p2",
+      "Integrity": "EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\634621a2-2b88-431f-a77c-5bff958208fe.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\68ad02c8-3186-469c-9c31-36ce51061f10.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/68ad02c8-3186-469c-9c31-36ce51061f10#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ck3durd7n",
+      "Integrity": "s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\68ad02c8-3186-469c-9c31-36ce51061f10.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\75b6e1bb-230d-42fb-8911-8b61d0b64dbe.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/75b6e1bb-230d-42fb-8911-8b61d0b64dbe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae1wzk4vzu",
+      "Integrity": "EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\75b6e1bb-230d-42fb-8911-8b61d0b64dbe.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\7771d770-5bea-4db9-82a9-8ef48a62631b.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/7771d770-5bea-4db9-82a9-8ef48a62631b#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h672fslexk",
+      "Integrity": "J0APNoyI6vvOHtrGv7oKcsZqHnVr216znpKh7wvBcFA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\7771d770-5bea-4db9-82a9-8ef48a62631b.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\8d2d2474-326b-4345-8e0a-d2442ee042af.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/8d2d2474-326b-4345-8e0a-d2442ee042af#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohqsus9p2",
+      "Integrity": "EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8d2d2474-326b-4345-8e0a-d2442ee042af.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\a509db88-74fd-42fe-b5e5-2ae140ea3e2a.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/a509db88-74fd-42fe-b5e5-2ae140ea3e2a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a509db88-74fd-42fe-b5e5-2ae140ea3e2a.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\a57f96f2-b399-479b-913a-af9d2351cc60.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/a57f96f2-b399-479b-913a-af9d2351cc60#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kb9zx7c5qi",
+      "Integrity": "8FZfrM64Hwhg24Z4bQJrZuVJrxVsQeNUPlnkfw3s6G4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a57f96f2-b399-479b-913a-af9d2351cc60.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\bbdf3c19-48b9-4640-a4dd-e048960dea6f.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/bbdf3c19-48b9-4640-a4dd-e048960dea6f#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bbdf3c19-48b9-4640-a4dd-e048960dea6f.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\bc1eaffd-6166-4a59-9da5-17f8e7322601.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/bc1eaffd-6166-4a59-9da5-17f8e7322601#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohqsus9p2",
+      "Integrity": "EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bc1eaffd-6166-4a59-9da5-17f8e7322601.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\c848d6d2-e540-4478-a329-a5642991cccd.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/c848d6d2-e540-4478-a329-a5642991cccd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae1wzk4vzu",
+      "Integrity": "EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\c848d6d2-e540-4478-a329-a5642991cccd.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\cb701414-4d71-4938-a14a-194c6fb8d676.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/cb701414-4d71-4938-a14a-194c6fb8d676#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0ji5816b",
+      "Integrity": "yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cb701414-4d71-4938-a14a-194c6fb8d676.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\cd445973-2586-4a60-b7ee-a497e58769ad.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/cd445973-2586-4a60-b7ee-a497e58769ad#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae1wzk4vzu",
+      "Integrity": "EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cd445973-2586-4a60-b7ee-a497e58769ad.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\d97c3fe9-1fa3-434d-8990-4813b2ffba74.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/d97c3fe9-1fa3-434d-8990-4813b2ffba74#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "no0ji5816b",
+      "Integrity": "yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d97c3fe9-1fa3-434d-8990-4813b2ffba74.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\dd0af43b-73ac-4463-b2a9-3765e11d019e.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/dd0af43b-73ac-4463-b2a9-3765e11d019e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\dd0af43b-73ac-4463-b2a9-3765e11d019e.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\fb7fcdb0-1124-413a-aa06-d00168aaa6eb.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/fb7fcdb0-1124-413a-aa06-d00168aaa6eb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hmb9sijtyi",
+      "Integrity": "58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fb7fcdb0-1124-413a-aa06-d00168aaa6eb.png"
+    },
+    {
+      "Identity": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\fcd80312-bdb7-4c96-b84d-9bccbd97d260.png",
+      "SourceId": "TCDashBoard",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\",
+      "BasePath": "_content/TCDashBoard",
+      "RelativePath": "uploads/fcd80312-bdb7-4c96-b84d-9bccbd97d260#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xohqsus9p2",
+      "Integrity": "EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\fcd80312-bdb7-4c96-b84d-9bccbd97d260.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/00e6db43-6e24-49c6-80aa-4157feea5f34.08wh1scf2u.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\00e6db43-6e24-49c6-80aa-4157feea5f34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YM70EK3YWYc0D8qN+IhU8gTaa0IRD7YAWXu7QssD+zE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "08wh1scf2u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/00e6db43-6e24-49c6-80aa-4157feea5f34.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YM70EK3YWYc0D8qN+IhU8gTaa0IRD7YAWXu7QssD+zE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/00e6db43-6e24-49c6-80aa-4157feea5f34.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\00e6db43-6e24-49c6-80aa-4157feea5f34.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72904"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YM70EK3YWYc0D8qN+IhU8gTaa0IRD7YAWXu7QssD+zE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:47:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YM70EK3YWYc0D8qN+IhU8gTaa0IRD7YAWXu7QssD+zE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0decfc4e-3e64-4a07-9d4a-98278c1dce1f.3ck3durd7n.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\0decfc4e-3e64-4a07-9d4a-98278c1dce1f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:53:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ck3durd7n"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0decfc4e-3e64-4a07-9d4a-98278c1dce1f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0decfc4e-3e64-4a07-9d4a-98278c1dce1f.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\0decfc4e-3e64-4a07-9d4a-98278c1dce1f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:53:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0f9437d1-a1b7-4f75-ab66-773a700e6056.ae1wzk4vzu.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\0f9437d1-a1b7-4f75-ab66-773a700e6056.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae1wzk4vzu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/0f9437d1-a1b7-4f75-ab66-773a700e6056.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/0f9437d1-a1b7-4f75-ab66-773a700e6056.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\0f9437d1-a1b7-4f75-ab66-773a700e6056.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:21:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/16e028dd-8d24-4173-8f6b-85e5b54ed297.5bf7o9a4pp.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\16e028dd-8d24-4173-8f6b-85e5b54ed297.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QcX4UG74QYssOsKV3oai8AnyahxECGTQBXeZTtZdSI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bf7o9a4pp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/16e028dd-8d24-4173-8f6b-85e5b54ed297.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QcX4UG74QYssOsKV3oai8AnyahxECGTQBXeZTtZdSI0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/16e028dd-8d24-4173-8f6b-85e5b54ed297.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\16e028dd-8d24-4173-8f6b-85e5b54ed297.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QcX4UG74QYssOsKV3oai8AnyahxECGTQBXeZTtZdSI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:12:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QcX4UG74QYssOsKV3oai8AnyahxECGTQBXeZTtZdSI0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.ae1wzk4vzu.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:33:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae1wzk4vzu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\47a7b49d-8236-41b7-9c58-1ea9bcffe2f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:33:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4f2a867b-d5bb-403b-9b5f-499765045d97.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\4f2a867b-d5bb-403b-9b5f-499765045d97.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/4f2a867b-d5bb-403b-9b5f-499765045d97.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/4f2a867b-d5bb-403b-9b5f-499765045d97.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\4f2a867b-d5bb-403b-9b5f-499765045d97.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/54810cb8-21ad-4f50-9f14-77a04dba0a3c.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\54810cb8-21ad-4f50-9f14-77a04dba0a3c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/54810cb8-21ad-4f50-9f14-77a04dba0a3c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/54810cb8-21ad-4f50-9f14-77a04dba0a3c.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\54810cb8-21ad-4f50-9f14-77a04dba0a3c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/634621a2-2b88-431f-a77c-5bff958208fe.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\634621a2-2b88-431f-a77c-5bff958208fe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:35:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/634621a2-2b88-431f-a77c-5bff958208fe.xohqsus9p2.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\634621a2-2b88-431f-a77c-5bff958208fe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:35:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohqsus9p2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/634621a2-2b88-431f-a77c-5bff958208fe.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/68ad02c8-3186-469c-9c31-36ce51061f10.3ck3durd7n.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\68ad02c8-3186-469c-9c31-36ce51061f10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ck3durd7n"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/68ad02c8-3186-469c-9c31-36ce51061f10.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/68ad02c8-3186-469c-9c31-36ce51061f10.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\68ad02c8-3186-469c-9c31-36ce51061f10.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s95xQkS11Ms3DfEaoPBHRAYYr3Sxy+jQzWJFpxB769s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/75b6e1bb-230d-42fb-8911-8b61d0b64dbe.ae1wzk4vzu.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\75b6e1bb-230d-42fb-8911-8b61d0b64dbe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae1wzk4vzu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/75b6e1bb-230d-42fb-8911-8b61d0b64dbe.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/75b6e1bb-230d-42fb-8911-8b61d0b64dbe.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\75b6e1bb-230d-42fb-8911-8b61d0b64dbe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7771d770-5bea-4db9-82a9-8ef48a62631b.h672fslexk.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\7771d770-5bea-4db9-82a9-8ef48a62631b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J0APNoyI6vvOHtrGv7oKcsZqHnVr216znpKh7wvBcFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h672fslexk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7771d770-5bea-4db9-82a9-8ef48a62631b.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J0APNoyI6vvOHtrGv7oKcsZqHnVr216znpKh7wvBcFA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7771d770-5bea-4db9-82a9-8ef48a62631b.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\7771d770-5bea-4db9-82a9-8ef48a62631b.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J0APNoyI6vvOHtrGv7oKcsZqHnVr216znpKh7wvBcFA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J0APNoyI6vvOHtrGv7oKcsZqHnVr216znpKh7wvBcFA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8d2d2474-326b-4345-8e0a-d2442ee042af.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\8d2d2474-326b-4345-8e0a-d2442ee042af.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:30:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8d2d2474-326b-4345-8e0a-d2442ee042af.xohqsus9p2.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\8d2d2474-326b-4345-8e0a-d2442ee042af.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:30:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohqsus9p2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8d2d2474-326b-4345-8e0a-d2442ee042af.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a509db88-74fd-42fe-b5e5-2ae140ea3e2a.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\a509db88-74fd-42fe-b5e5-2ae140ea3e2a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a509db88-74fd-42fe-b5e5-2ae140ea3e2a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a509db88-74fd-42fe-b5e5-2ae140ea3e2a.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\a509db88-74fd-42fe-b5e5-2ae140ea3e2a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a57f96f2-b399-479b-913a-af9d2351cc60.kb9zx7c5qi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\a57f96f2-b399-479b-913a-af9d2351cc60.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FZfrM64Hwhg24Z4bQJrZuVJrxVsQeNUPlnkfw3s6G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:02:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kb9zx7c5qi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a57f96f2-b399-479b-913a-af9d2351cc60.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FZfrM64Hwhg24Z4bQJrZuVJrxVsQeNUPlnkfw3s6G4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a57f96f2-b399-479b-913a-af9d2351cc60.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\a57f96f2-b399-479b-913a-af9d2351cc60.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8FZfrM64Hwhg24Z4bQJrZuVJrxVsQeNUPlnkfw3s6G4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:02:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8FZfrM64Hwhg24Z4bQJrZuVJrxVsQeNUPlnkfw3s6G4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bbdf3c19-48b9-4640-a4dd-e048960dea6f.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\bbdf3c19-48b9-4640-a4dd-e048960dea6f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bbdf3c19-48b9-4640-a4dd-e048960dea6f.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bbdf3c19-48b9-4640-a4dd-e048960dea6f.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\bbdf3c19-48b9-4640-a4dd-e048960dea6f.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bc1eaffd-6166-4a59-9da5-17f8e7322601.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\bc1eaffd-6166-4a59-9da5-17f8e7322601.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/bc1eaffd-6166-4a59-9da5-17f8e7322601.xohqsus9p2.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\bc1eaffd-6166-4a59-9da5-17f8e7322601.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:34:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohqsus9p2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/bc1eaffd-6166-4a59-9da5-17f8e7322601.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c848d6d2-e540-4478-a329-a5642991cccd.ae1wzk4vzu.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\c848d6d2-e540-4478-a329-a5642991cccd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae1wzk4vzu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c848d6d2-e540-4478-a329-a5642991cccd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c848d6d2-e540-4478-a329-a5642991cccd.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\c848d6d2-e540-4478-a329-a5642991cccd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cb701414-4d71-4938-a14a-194c6fb8d676.no0ji5816b.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\cb701414-4d71-4938-a14a-194c6fb8d676.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0ji5816b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cb701414-4d71-4938-a14a-194c6fb8d676.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cb701414-4d71-4938-a14a-194c6fb8d676.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\cb701414-4d71-4938-a14a-194c6fb8d676.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:34:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cd445973-2586-4a60-b7ee-a497e58769ad.ae1wzk4vzu.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\cd445973-2586-4a60-b7ee-a497e58769ad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae1wzk4vzu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cd445973-2586-4a60-b7ee-a497e58769ad.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cd445973-2586-4a60-b7ee-a497e58769ad.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\cd445973-2586-4a60-b7ee-a497e58769ad.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EqLN31i8t/w+Qd4U5ODGaIUA/rdil6ZzzG9nhAH0a4g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\d8a66a2b-d6ed-4bd6-b0b0-8a2fbc9bd5fd.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d97c3fe9-1fa3-434d-8990-4813b2ffba74.no0ji5816b.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\d97c3fe9-1fa3-434d-8990-4813b2ffba74.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:30:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "no0ji5816b"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d97c3fe9-1fa3-434d-8990-4813b2ffba74.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d97c3fe9-1fa3-434d-8990-4813b2ffba74.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\d97c3fe9-1fa3-434d-8990-4813b2ffba74.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 11:30:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yS9np5PxNa3KtPCUaSiJXwEUoaT1/EjTMfFPJrWBKFg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dd0af43b-73ac-4463-b2a9-3765e11d019e.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\dd0af43b-73ac-4463-b2a9-3765e11d019e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:38:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/dd0af43b-73ac-4463-b2a9-3765e11d019e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/dd0af43b-73ac-4463-b2a9-3765e11d019e.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\dd0af43b-73ac-4463-b2a9-3765e11d019e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 09:38:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fb7fcdb0-1124-413a-aa06-d00168aaa6eb.hmb9sijtyi.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\fb7fcdb0-1124-413a-aa06-d00168aaa6eb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hmb9sijtyi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fb7fcdb0-1124-413a-aa06-d00168aaa6eb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fb7fcdb0-1124-413a-aa06-d00168aaa6eb.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\fb7fcdb0-1124-413a-aa06-d00168aaa6eb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:03:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-58im7ePJWdGY1urCcXHkB9rDE6YMXflIE6U0tD7v4F0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fcd80312-bdb7-4c96-b84d-9bccbd97d260.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\fcd80312-bdb7-4c96-b84d-9bccbd97d260.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:35:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/fcd80312-bdb7-4c96-b84d-9bccbd97d260.xohqsus9p2.png",
+      "AssetFile": "C:\\Users\\aslogyaa\\source\\repos\\TCDashBoard\\TCDashBoard\\wwwroot\\uploads\\fcd80312-bdb7-4c96-b84d-9bccbd97d260.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "126368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 12:35:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xohqsus9p2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/fcd80312-bdb7-4c96-b84d-9bccbd97d260.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EbDmnqY+FwZx6XgQ5InhxcBHuSMM0veqXlsDapIVusY="
+        }
+      ]
+    }
+  ]
+}
